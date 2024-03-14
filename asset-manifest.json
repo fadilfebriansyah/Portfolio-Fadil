@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Fadil/static/css/main.4ce1c4f7.css",
+    "main.js": "/Portfolio-Fadil/static/js/main.9f3b30ac.js",
+    "static/media/profilefdl.jpg": "/Portfolio-Fadil/static/media/profilefdl.fa885200664f19021cc9.jpg",
+    "static/media/sayur.png": "/Portfolio-Fadil/static/media/sayur.7171375ea9002642cf91.png",
+    "static/media/php.png": "/Portfolio-Fadil/static/media/php.502c1a901665a0453b5c.png",
+    "static/media/klasifikasi.jpg": "/Portfolio-Fadil/static/media/klasifikasi.10ad905fd33c54cc866b.jpg",
+    "static/media/Taksi.png": "/Portfolio-Fadil/static/media/Taksi.3e675a83f467c064d7b0.png",
+    "static/media/hujan.png": "/Portfolio-Fadil/static/media/hujan.d2be766917bb464a0341.png",
+    "static/media/online.png": "/Portfolio-Fadil/static/media/online.cf208042cccbb51fa74c.png",
+    "static/media/python.png": "/Portfolio-Fadil/static/media/python.a7cba4edd13186f9a9c6.png",
+    "static/media/mysql.png": "/Portfolio-Fadil/static/media/mysql.7161f56dc2f5334642d0.png",
+    "static/media/bengkel.png": "/Portfolio-Fadil/static/media/bengkel.54c5209e07ceaa81b072.png",
+    "static/media/logo2.svg": "/Portfolio-Fadil/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "static/media/logo.svg": "/Portfolio-Fadil/static/media/logo.8fc0c8eee63d120ddc0beedcf5531fd0.svg",
+    "index.html": "/Portfolio-Fadil/index.html",
+    "main.4ce1c4f7.css.map": "/Portfolio-Fadil/static/css/main.4ce1c4f7.css.map",
+    "main.9f3b30ac.js.map": "/Portfolio-Fadil/static/js/main.9f3b30ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce1c4f7.css",
+    "static/js/main.9f3b30ac.js"
+  ]
+}
